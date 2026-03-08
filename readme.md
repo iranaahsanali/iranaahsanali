@@ -1,30 +1,90 @@
-<h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
-<h3 align="center">Passionate Tech Speaker with 7+ years of experience in building high-performing mobile & web apps and scalable Node.js backends. I deliver engaging talks on practical approaches to building high-quality software, helping techies to learn insights.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iranaahsanali" alt="iranaahsanali" /></a> </p>
+```
+░█████╗░██╗░░██╗░██████╗░█████╗░███╗░░██╗     ░█████╗░██╗     ██╗
+██╔══██╗██║░░██║██╔════╝██╔══██╗████╗░██║     ██╔══██╗██║     ██║
+███████║███████║╚█████╗░███████║██╔██╗██║     ███████║██║     ██║
+██╔══██║██╔══██║░╚═══██╗██╔══██║██║╚████║     ██╔══██║██║     ██║
+██║░░██║██║░░██║██████╔╝██║░░██║██║░╚███║     ██║░░██║███████╗██║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝     ╚═╝░░╚═╝╚══════╝╚═╝
+```
 
-- 🔭 I’m currently working on **Lebara Mobile App**
+### `< Mobile & Web Engineer />` · `{ Tech Speaker }` · `[ Open Source Advocate ]`
 
-- 🌱 I’m currently learning **AWS Cloud Services**
+*10+ years shipping production apps · React Native · Node.js · Cloud*
 
-- 👯 I’m looking to collaborate on **Mobile Open-Source SDKs for making developers time more productive**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahsanali.me-0f172a?style=for-the-badge&labelColor=0f172a)](https://ahsanali.me/portfolio)
+[![Blog](https://img.shields.io/badge/✍️_Blog-Articles-0f172a?style=for-the-badge&labelColor=0f172a)](https://ahsanali.me/blog)
+[![Email](https://img.shields.io/badge/📬_hello@ahsanali.me-0f172a?style=for-the-badge&labelColor=0f172a)](mailto:hello@ahsanali.me)
 
-- 👨‍💻 All of my projects are available at [https://ahsanali.me/portfolio](https://ahsanali.me/portfolio)
+</div>
 
-- 📝 I regularly write articles on [https://ahsanali.me/blog](https://ahsanali.me/blog)
+---
 
-- 💬 Ask me about **React Native, ReactJS & NodeJS**
+## 🧠 About Me
 
-- 📫 How to reach me **hello@ahsanali.me**
+> *"Great software isn't just written — it's crafted with intention."*
 
-- 📄 Know about my experiences [https://ahsanali.me/cv](https://ahsanali.me/cv)
+I'm a **passionate Tech Speaker & Senior Engineer** who thrives at the intersection of performance, developer experience, and clean architecture. With **10+ years** building cross-platform mobile apps and scalable backends, I turn complex problems into elegant solutions — and then talk about them on stage.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🚀 Shipped production apps including **Lebara Mobile App** — a large-scale React Native product
+- ☁️ Levelling up on **AWS Cloud Services**
+- 🤝 Open to collaborating on **Mobile Open-Source SDKs** that save developer time
+- 🎤 I speak at conferences & meetups about real-world software engineering
+- 💬 Hit me up about **React Native, ReactJS & Node.js**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iranaahsanali&show_icons=true&locale=en&layout=compact" alt="iranaahsanali" /></p>
+## 🛠 Tech Stack
 
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Databases & Messaging**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+---
+
+<div align="center">
+
+**Let's build something remarkable together.**
+
+`hello@ahsanali.me` · [ahsanali.me](https://ahsanali.me)
+
+![Profile Views](https://komarev.com/ghpvc/?username=iranaahsanali&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
