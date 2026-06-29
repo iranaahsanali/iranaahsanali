@@ -9,7 +9,7 @@
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝     ╚═╝░░╚═╝╚══════╝╚═╝
 ```
 
-### `< Mobile & Web Engineer />` · `{ Tech Speaker }` · `[ Open Source Advocate ]`
+### `< Mobile & Web Engineer />` · `[ Open Source Advocate ]`
 
 *10+ years shipping production apps · React Native · Node.js · Cloud*
 
